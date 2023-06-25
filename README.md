@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm a full stack developer currently based in Japan, Tokyo. Welcome to my GitHub profile! Here you'll find various projects showcasing my skills and interests.
+I'm currently working as the tech lead of [KINJO](https://www.kinjo-japan.com/) ⛩️
 
 ## Tech Stack
 
