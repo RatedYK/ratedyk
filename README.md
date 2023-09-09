@@ -3,7 +3,6 @@
 
 I'm a full stack developer currently based in Japan, Aichi.
 
-I'm currently working as the tech lead of [KINJO](https://www.kinjo-japan.com/) ⛩️
 
 ## Tech Stack
 
