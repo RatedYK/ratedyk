@@ -1,7 +1,7 @@
 # Hi there <span align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="30"></span>
 
 
-I'm a full stack developer currently based in Japan, Tokyo.
+I'm a full stack developer currently based in Japan, Aichi.
 
 I'm currently working as the tech lead of [KINJO](https://www.kinjo-japan.com/) ⛩️
 
